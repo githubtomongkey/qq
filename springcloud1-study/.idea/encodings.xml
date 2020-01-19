@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/springcloud1-study-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud1-study-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud1-study-consumer-dept-80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud1-study-consumer-dept-80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud1-study-consumer-dept-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud1-study-consumer-hystrix-dashboard/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud1-study-euraka-7001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud1-study-euraka-7001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud1-study-euraka-7002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud1-study-euraka-7003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud1-study-provider-dept-8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud1-study-provider-dept-8001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud1-study-provider-dept-8002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud1-study-provider-dept-8003/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud1-study-provider-dept-hystrix-8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud1-study-zuul-gateway-9527/src/main/java" charset="UTF-8" />
+  </component>
+</project>
